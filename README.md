@@ -3,7 +3,7 @@ Note : This project is a demostration of python class. The travel distance from 
 
 This project was created just to test python classes...
 
-The purpose of this projevt
+The purpose of this project
 - To learn to create object in python
--  Access individual object variables
--  Being able to use object methods
+- Access individual object variables
+- Being able to use object methods
