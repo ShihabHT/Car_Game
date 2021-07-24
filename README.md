@@ -1,5 +1,5 @@
 # Car_Game
-Note : This project is a demostration of python class. The travel distance from odometer is not correct. I didn't apply right formula to all these. 
+Note : This project is a demonstration of python class. The travel distance from odometer is not correct. I didn't apply right formula to all these. 
 
 This project was created just to test python classes...
 
